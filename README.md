@@ -1,3 +1,6 @@
+<a href="https://www.buymeacoffee.com/antrei"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
+
+
 # teltonika-carsharing-tcp-server
 
 ### A TCP server for Teltonika GPS devices with support for CAN-CONTROL. Suitable for carsharing
